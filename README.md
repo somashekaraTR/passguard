@@ -18,4 +18,4 @@ Just open `password-analyzer.html` in any browser — no installation needed.
 - Web Crypto API (SHA-256 hashing)
 
 ## Author
-Your Name — MS Cybersecurity, Hochschule Offenburg
+Somashekara T R
